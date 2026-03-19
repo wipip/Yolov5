@@ -7,7 +7,7 @@ import torch
 
 st.set_page_config(
     page_title="Detección de Objetos en Tiempo Real",
-    page_icon="🔍",
+    page_icon="📸",
     layout="wide"
 )
 
